@@ -32,7 +32,7 @@ Before starting the lab, make sure you have,
 ```bash
 git clone <repository-url>
 cd <repository-directory>
-```bash
+```
 
 2. **Open the Notebook**: Launch Jupyter Notebook and open the xgboost.ipynb notebook.
 
